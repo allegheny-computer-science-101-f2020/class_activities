@@ -9,8 +9,7 @@ All of the work that you do in class  will count towards your class participatio
 ## Commands
 
 In this class students will use Gradle and GatorGrader tools to help check and complete assignments. Gradle is a build automation tool that compiles (builds) and runs programs for you so that you do not have to enter multiple commands. Additionally, it can perform extra checks, for example ensuring that your program satisfies the styling guidelines.
-
-GatorGrader is an automated grading tool developed by Allegheny computer science students under the direction of Dr. Kapfhammer. It relies on Gradle and can be used to check the correctness of the assignment completion before submitting it. GatorGrader will be used for all lab and practical assignments.
+GatorGrader is an automated grading tool developed by Allegheny computer science students under the direction of Dr. Kapfhammer. It relies on Gradle and can be used to check the correctness of the assignment completion before submitting it. GatorGrader will be used for all lab and practical assignments but not for the class activities.
 
 ### Using Gradle via Docker
 

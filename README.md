@@ -57,7 +57,7 @@ your repository. Now, you are ready to download the updates provided by the
 course instructor by typing:
 
 ```
-git pull download master
+git pull download main --allow-unrelated-histories
 ```
 
 This second command can be run whenever the course instructor needs to provide
